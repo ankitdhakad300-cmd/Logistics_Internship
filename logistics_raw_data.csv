@@ -1,0 +1,16 @@
+Order_ID,Distance_km,Delivery_Time_hr,Shipping_Cost,Vehicle_Type,Delivery_Status
+1001,12,1.2,180.0,Van,On Time
+1002,45,3.5,420.0,Truck,Delayed
+1003,28,2.4,290.0,Van,On Time
+1004,60,4.8,550.0,Truck,Delayed
+1005,35,,360.0,Bike,On Time
+1006,18,1.8,,Bike,On Time
+1007,52,4.1,490.0,Truck,Delayed
+1008,40,3.2,410.0,Van,On Time
+1009,25,2.0,260.0,Bike,On Time
+1010,1000,90.0,8000.0,Truck,Delayed
+1011,32,2.7,330.0,Van,On Time
+1012,48,3.9,460.0,Truck,Delayed
+1013,20,,220.0,Bike,On Time
+1014,55,4.4,520.0,Truck,Delayed
+1015,38,3.0,390.0,Van,On Time

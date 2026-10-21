@@ -1,0 +1,12 @@
+,0
+numeric__Distance_km,0.6364710537651249
+categorical__Transport_Mode_Air,0.1787126441886445
+categorical__Transport_Mode_Road,0.07264446854233121
+categorical__Transport_Mode_Rail,0.02783786346127416
+numeric__Shipment_Weight_kg,0.022238680100375104
+categorical__Traffic_Level_Low,0.020289713847820943
+categorical__Traffic_Level_High,0.01886063860469361
+categorical__Weather_Stormy,0.009690062257903045
+categorical__Weather_Clear,0.008301785397808003
+categorical__Traffic_Level_Medium,0.0030013165509228854
+categorical__Weather_Rainy,0.0019517732831016172
